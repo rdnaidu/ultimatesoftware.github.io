@@ -9,7 +9,7 @@ more: https://www.ulticoder.com
 
 jobs: http://recruiting.ultipro.com/usg1006/
 
-email: tech_careers@ultimatesoftware.com  subject="jobs from github"
+email: tech_careers@ultimatesoftware.com
 
 
 
